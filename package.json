@@ -1,0 +1,7 @@
+{
+  "name": "moleculer-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Supanut Apikulvanich <supanut.overload@gmail.com>",
+  "license": "MIT"
+}

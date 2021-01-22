@@ -1,0 +1,12 @@
+{
+  "name": "callee-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moleculer": "^0.14.12"
+  }
+}
