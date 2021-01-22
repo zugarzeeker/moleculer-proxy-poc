@@ -1,6 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 
+const ServiceName = process.env.CALLEE_SERVICE_NAME || process.env.SERVICE_NAME || 'Callee';
 const PORT = process.env.CALLEE_PORT || process.env.PORT || 6001;
 const app = express();
 
