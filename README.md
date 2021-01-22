@@ -7,7 +7,7 @@ Caller --> Callee
 ### Start Callee
 ```
 - cd callee-service
-- yarn start
+- npm start
 ```
 
 ### Start Caller
