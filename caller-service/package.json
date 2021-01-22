@@ -2,5 +2,9 @@
   "name": "example-service",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moleculer": "^0.14.12"
+  }
 }
